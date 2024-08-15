@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 36.0618,
+        "lat": 32.9907
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.68,
+        "feels_like": 290.29,
+        "temp_min": 291.68,
+        "temp_max": 291.68,
+        "pressure": 1016,
+        "humidity": 27,
+        "sea_level": 1016,
+        "grnd_level": 942
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.72,
+        "deg": 128,
+        "gust": 6.05
+    },
+    "clouds": {
+        "all": 46
+    },
+    "dt": 1678001171,
+    "sys": {
+        "type": 1,
+        "id": 6862,
+        "country": "SY",
+        "sunrise": 1677988784,
+        "sunset": 1678030519
+    },
+    "timezone": 10800,
+    "id": 165997,
+    "name": "Qasim",
+    "cod": 200
+}
